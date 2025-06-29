@@ -1,0 +1,13 @@
+numpy==1.26.4
+pandas==2.2.1
+pillow==10.4.0
+plotly==5.23.0
+scikit-learn==1.5.1
+seaborn==0.13.2
+setuptools==74.0.0
+statsmodels==0.14.2
+streamlit==1.37.0
+streamlit-option-menu==0.3.13
+lightgbm==3.3.5
+catboost 
+pip==24.2

@@ -7,7 +7,7 @@ seaborn==0.13.2
 setuptools==74.0.0
 statsmodels==0.14.2
 streamlit==1.37.0
+streamlit-extras>=0.2.4
 streamlit-option-menu==0.3.13
 lightgbm==3.3.5
-streamlit-extras
 pip==24.2

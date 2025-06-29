@@ -1,8 +1,9 @@
 import streamlit as st
-import plotly.express as px
 import pandas as pd
 import numpy as np
-import plotly.figure_factory as ff
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.express as px
 import warnings
 from streamlit_extras.metric_cards import style_metric_cards
 

@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit_extras.metric_cards import style_metric_cards
 from dashboard import run_dashboard
 from prediction import run_prediction
 

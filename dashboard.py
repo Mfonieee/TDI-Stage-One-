@@ -1,11 +1,12 @@
-def run_dashboard():   
-    import streamlit as st
-    import pandas as pd
-    import numpy as np
-    import plotly.express as px
-    import plotly.figure_factory as ff
-    import warnings
-    from streamlit_extras.metric_cards import style_metric_cards
+import streamlit as st
+import pandas as pd
+import numpy as np
+import plotly.express as px
+import plotly.figure_factory as ff
+import warnings
+from streamlit_extras.metric_cards import style_metric_cards
+
+def run_dashboard(): 
     warnings.filterwarnings('ignore')
 
 

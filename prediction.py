@@ -1,11 +1,11 @@
-def run_prediction():
-    import streamlit as st
-    import pandas as pd
-    import numpy as np
-    import plotly.express as px
-    import plotly.figure_factory as ff
-    import pickle
+import streamlit as st
+import plotly.express as px
+import pandas as pd
+import numpy as np
+import plotly.figure_factory as ff
+import pickle
 
+def run_prediction():
     # The trained LightGBM pipeline model
     with open("lightgbm_model.pkl", "rb") as file:
         model = pickle.load(file)

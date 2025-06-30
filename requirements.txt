@@ -8,5 +8,5 @@ statsmodels==0.14.2
 streamlit==1.34.0
 streamlit-option-menu==0.3.13
 lightgbm==3.3.5
-streamlit-extras
+streamlit-extras==0.3.5
 pip==24.2
